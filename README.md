@@ -5,7 +5,7 @@
 
 <p align='center'>
   <a href='https://www.facebook.com/luis.matheus.bs' t><img src='https://svgshare.com/i/Mpw.svg' width='120px' title='fabebook badget' /></a>
-  <a href='https://www.linkedin.com/in/luismatheus-bs/><img src='https://svgshare.com/i/Mq7.svg' width='120px' title='linkdin github' /></a>
+  <a href='https://www.linkedin.com/in/luismatheus-bs/'><img src='https://svgshare.com/i/Mq7.svg' width='120px' title='linkdin github' /></a>
   <a href='https://discord.gg/FfAfgC' ><img src='https://svgshare.com/i/Moj.svg' width='120px' title='discord-badget' /></a>
   <a href='https://wa.me/5511931439488'><img src='https://svgshare.com/i/Mpk.svg' width='120px' title='my-phone' /></a>
 </p>
