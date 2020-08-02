@@ -8,7 +8,6 @@
   <a href='https://www.linkedin.com/in/luismatheus-bs/'><img src='https://svgshare.com/i/Mq7.svg' width='120px' title='linkdin github' /></a>
   <a href='https://discord.gg/FfAfgC' ><img src='https://svgshare.com/i/Moj.svg' width='120px' title='discord-badget' /></a>
   <a href='https://wa.me/5511931439488'><img src='https://svgshare.com/i/Mpk.svg' width='120px' title='my-phone' /></a>
-  <a href='' ><img src='https://svgshare.com/i/MpB.svg'  width='120px' title='hackerrank' /></a>
 </p>
 <!--**LuisMatheus-dev/LuisMatheus-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
